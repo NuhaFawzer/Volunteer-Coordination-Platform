@@ -29,7 +29,7 @@ Pages
 6. volunteer.php  - Volunteer dashboard
 7. organization_dashboard.php - Organization dashboard
 8. reports.php    - Reports (Admin only)
-9. help.php       - Help page
+9. help.php       - 
 
 ------------------------------------------------------
 Notes
