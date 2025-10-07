@@ -115,7 +115,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <button type="submit">Update Profile</button>  
 
         <div style="text-align:center; margin-top: 15px;background">
-    <a href="index.php" class="btn btn-primary"> Back</a>
+    <a href="index.php" class="btn btn-primary"> Back to home page</a>
 </div>
 
     </form>
